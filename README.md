@@ -1,26 +1,121 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
-# Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> thanks for stopping by
-### I am ✨ Abasiubong Esinwo Effiong (codewithesinwo) ✨,
-A dynamic and steadfast Full Stack Engineer with more than three years (6month's) of expertise in constructing robust websites and applications within dynamic, collaborative settings. A creative force committed to delivering innovative solutions. You can also find me on 
-<a href="https://www.linkedin.com/in/abasiubongesinwo-6238312a6/" rel="nofollow noreferrer">
-  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-</a>, +2347045559667.
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
-## &#x1f4c8; GitHub Stats (Current Account)
-<a href="https://github.com/codewithesinwo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithesinwo&count_private=true&show_icons=true&theme=tokyonight" alt="Abasiubong Esinwo Effiong's GitHub Stats" />
-</a>
-#
-<a href="https://github.com/codewithesinwo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithesinwo&layout=compact&show_icons=true&theme=dracula&langs_count=8" />
-</a>
-<a href="https://github.com/codewithesinwo">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=codewithesinwo&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
-</a>  
-### 🏆 GitHub Trophies
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=160&text=Abasiubong%20Esinwo%20Effiong&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Engineer%20%E2%80%94%20Building%20Products%20That%20Matter&descAlignY=68&descColor=94a3b8&animation=fadeIn" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-codewithesinwo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codewithesinwo)
+&nbsp;
+[![Phone](https://img.shields.io/badge/Phone-%2B2347045559667-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+2347045559667)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=codewithesinwo&style=flat-square&color=0ea5e9&label=Profile+Views)
+
+</div>
+
+<br/>
+
+---
+
+## 👤 Professional Summary
+
+I am a **Full Stack Engineer** with over **3 years of experience** designing and building performant, scalable web applications across diverse industries. I thrive in collaborative environments and bring a meticulous eye for detail, clean architecture, and user-centered thinking to every project I touch.
+
+My core strength lies in bridging the gap between design and engineering — turning ideas into production-ready products that are both beautiful and maintainable.
+
+> *Available for freelance projects, contract roles, and full-time opportunities.*
+
+---
+
+## 🛠 Technical Skills
+
+### Frontend Engineering
+| Technology | Proficiency | Notes |
+|---|---|---|
+| HTML5 / CSS3 | ⭐⭐⭐⭐⭐ | Semantic markup, accessibility, responsive design |
+| JavaScript (ES6+) | ⭐⭐⭐⭐⭐ | Core language, async patterns, DOM manipulation |
+| React.js | ⭐⭐⭐⭐⭐ | Hooks, Context API, component architecture |
+| TypeScript | ⭐⭐⭐⭐ | Type-safe development, interfaces, generics |
+| Next.js | ⭐⭐⭐⭐ | SSR, SSG, App Router |
+| Tailwind CSS | ⭐⭐⭐⭐⭐ | Utility-first styling, custom design systems |
+| Bootstrap | ⭐⭐⭐⭐⭐ | Grid system, components, theming |
+
+### Backend & Tools
+| Technology | Proficiency | Notes |
+|---|---|---|
+| Node.js | ⭐⭐⭐⭐ | REST APIs, server-side rendering |
+| Express.js | ⭐⭐⭐⭐ | Middleware, routing, API design |
+| MongoDB | ⭐⭐⭐ | NoSQL data modeling |
+| Git & GitHub | ⭐⭐⭐⭐⭐ | Version control, branching strategies |
+| Figma | ⭐⭐⭐⭐ | UI design, prototyping, design handoff |
+| Vercel / Netlify | ⭐⭐⭐⭐⭐ | CI/CD, deployment pipelines |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=codewithesinwo&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8" />
+&nbsp;
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithesinwo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8" />
+
+<br/><br/>
+
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithesinwo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0ea5e9&fire=f59e0b&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=555" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img width="85%" src="https://github-profile-trophy.vercel.app/?username=codewithesinwo&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
+
+---
+
+## 📁 Featured Projects
+
+> *Pinned repositories reflect my best work. Below are highlights.*
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| 🔗 Portfolio Website | Personal portfolio showcasing projects & experience | React, Tailwind, Framer Motion | ✅ Live |
+| 🛒 E-commerce UI | Responsive storefront with cart & checkout flow | Next.js, TypeScript, CSS Modules | ✅ Live |
+| 📋 Task Manager App | Full-stack productivity app with auth & CRUD | React, Node.js, MongoDB | 🔧 In Progress |
+| 🎨 Component Library | Reusable UI components with documentation | React, Storybook, Tailwind | 🔧 In Progress |
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=codewithesinwo&bg_color=0d1117&color=0ea5e9&line=0284c7&point=f59e0b&area=true&area_color=0ea5e9&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Let's Work Together
+
+I am open to **collaborations**, **freelance engagements**, and **full-time roles**. If you have a project that requires a dedicated engineer who takes quality seriously — let's talk.
+
+<div align="center">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Message%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
+&nbsp;&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B2347045559667-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347045559667)
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:1a1a2e&height=60&section=footer&fontSize=13&fontColor=475569&text=Open%20to%20opportunities%20%C2%B7%20Based%20in%20Nigeria%20%C2%B7%20Available%20worldwide%20remotely&fontAlignY=55&animation=fadeIn" />
+
+</div>
