@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=160&text=Abasiubong%20Esinwo%20Effiong&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Engineer%20%E2%80%94%20Building%20Products%20That%20Matter&descAlignY=68&descColor=94a3b8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=160&text=ABASIUBONG%20ESINWO&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Engineer%20%E2%80%94%20Building%20Products%20That%20Matter&descAlignY=68&descColor=94a3b8&animation=fadeIn" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ## 👤 Professional Summary
 
-I am a **Full Stack Engineer** with over **3 years of experience** designing and building performant, scalable web applications across diverse industries. I thrive in collaborative environments and bring a meticulous eye for detail, clean architecture, and user-centered thinking to every project I touch.
+I am a **Full Stack Engineer** with over **1 year of experience** designing and building performant, scalable web applications across diverse industries. I thrive in collaborative environments and bring a meticulous eye for detail, clean architecture, and user-centered thinking to every project I touch.
 
 My core strength lies in bridging the gap between design and engineering — turning ideas into production-ready products that are both beautiful and maintainable.
 
